@@ -7,12 +7,12 @@ bold = ImageFont.truetype("C:/Windows/Fonts/consolab.ttf", 17)
 script = [
     ("cmd", "whoami"),
     ("out", [("victor", GREEN), (" - data analyst @ ntconsult", FG)]),
-    ("cmd", "spark.sql(\"SELECT * FROM accounts\").count()"),
-    ("out", [("[ok] ", GREEN), ("big data in, clear answers out", FG)]),
-    ("cmd", "model = LGBMRanker().fit(X, y)"),
-    ("out", [("[ok] ", GREEN), ("primary account ranked for every user", FG)]),
-    ("cmd", "ab_test.run(\"quero_emprestimo\")"),
-    ("out", [("[ok] ", GREEN), ("revenue ", FG), ("+40%", GREEN)]),
+    ("cmd", "cat stack.txt"),
+    ("out", [("sql", ORANGE), (" | ", DIM), ("pyspark", ORANGE), (" | ", DIM), ("python", ORANGE), (" | ", DIM), ("databricks", ORANGE), (" | ", DIM), ("power bi", ORANGE)]),
+    ("cmd", "raw.transform(clean).write.saveAsTable(\"gold\")"),
+    ("out", [("[ok] ", GREEN), ("pipeline finished, gold table ready", FG)]),
+    ("cmd", "XGBClassifier().fit(X_train, y_train)"),
+    ("out", [("[ok] ", GREEN), ("model trained and logged to mlflow", FG)]),
     ("cmd", "echo $NEXT"),
     ("out", [("data engineering | ML | product analytics", PURPLE)]),
 ]
