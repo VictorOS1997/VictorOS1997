@@ -15,7 +15,7 @@
 
 ### 🧭 About me
 
-- 📊 **3+ years** in Product Analytics, Open Finance and Growth — at NTConsult, PicPay, Toro Investimentos and Mobills
+- 📊 **4 years** in Product Analytics, Open Finance and Growth — at NTConsult, PicPay, Toro Investimentos and Mobills
 - 🏦 Built a large-scale **primary-account identification** model for banking users with **LightGBM** and **XGBoost**
 - 📈 Drove a **40% revenue increase** on a lending product through A/B and fakedoor testing
 - 🤖 Built **Claude Code Skills** so product teams can run their own analyses without waiting on data
