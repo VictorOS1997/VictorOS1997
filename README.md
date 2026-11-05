@@ -2,7 +2,7 @@
 <p align="center"><img src="https://media.giphy.com/media/nIIN07v2SlzjfSakIW/giphy.gif" width="260" alt="Link playing the ocarina"></p>
 <p align="center">
   <b>Data Analyst Consultant @ NTConsult</b> · Product Analytics · Data Engineering · ML<br>
-  Turning big, messy fintech data into decisions — with SQL, PySpark and a bit of machine learning.
+  Turning big, messy financial data into decisions — with SQL, PySpark and a bit of machine learning.
 </p>
 
 <p align="center">
@@ -15,7 +15,8 @@
 
 ### 🧭 About me
 
-- 📊 **4 years** in Product Analytics, Open Finance and Growth — at NTConsult, PicPay, Toro Investimentos and Mobills
+- 📊 **4 years** in fintech and financial services — PicPay, Toro Investimentos, Mobills and now Sicredi (via NTConsult)
+- 🏛️ Currently building **data pipelines and automations** (ETL, web scraping, Power Automate) for Sicredi's Innovation team
 - 🏦 Built a large-scale **primary-account identification** model for banking users with **LightGBM** and **XGBoost**
 - 📈 Drove a **40% revenue increase** on a lending product through A/B and fakedoor testing
 - 🤖 Built **Claude Code Skills** so product teams can run their own analyses without waiting on data
@@ -30,6 +31,7 @@
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white">
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white">
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white">
