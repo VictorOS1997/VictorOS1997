@@ -6,9 +6,9 @@ font = ImageFont.truetype("C:/Windows/Fonts/consola.ttf", 17)
 bold = ImageFont.truetype("C:/Windows/Fonts/consolab.ttf", 17)
 script = [
     ("cmd", "whoami"),
-    ("out", [("victor", GREEN), (" - data analyst @ picpay, open finance", FG)]),
+    ("out", [("victor", GREEN), (" - data analyst @ ntconsult", FG)]),
     ("cmd", "spark.sql(\"SELECT * FROM accounts\").count()"),
-    ("out", [("173,000,000", ORANGE), (" accounts across ", FG), ("66M", ORANGE), (" users", FG)]),
+    ("out", [("[ok] ", GREEN), ("big data in, clear answers out", FG)]),
     ("cmd", "model = LGBMRanker().fit(X, y)"),
     ("out", [("[ok] ", GREEN), ("primary account ranked for every user", FG)]),
     ("cmd", "ab_test.run(\"quero_emprestimo\")"),

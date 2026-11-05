@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Victor 👋</h1>
 <p align="center"><img src="https://media.giphy.com/media/nIIN07v2SlzjfSakIW/giphy.gif" width="260" alt="Link playing the ocarina"></p>
 <p align="center">
-  <b>Data Analyst @ PicPay</b> · Product Analytics · Open Finance · ML<br>
+  <b>Data Analyst @ NTConsult</b> · Product Analytics · Data Engineering · ML<br>
   Turning big, messy fintech data into decisions — with SQL, PySpark and a bit of machine learning.
 </p>
 
@@ -15,8 +15,8 @@
 
 ### 🧭 About me
 
-- 📊 **3+ years** in Product Analytics, Open Finance and Growth — always inside fintechs (PicPay, Toro Investimentos, Mobills)
-- 🏦 Led a project mapping **173M bank accounts across 66M users**, ranking each user's primary account with **LightGBM**
+- 📊 **3+ years** in Product Analytics, Open Finance and Growth — at NTConsult, PicPay, Toro Investimentos and Mobills
+- 🏦 Built a large-scale **primary-account identification** model for banking users with **LightGBM** and **XGBoost**
 - 📈 Drove a **40% revenue increase** on a lending product through A/B and fakedoor testing
 - 🤖 Built **Claude Code Skills** so product teams can run their own analyses without waiting on data
 - 🎓 MBA in Data & Decision Science · B.Eng. in Mechanical Engineering
