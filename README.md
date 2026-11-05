@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Victor 👋</h1>
+<p align="center"><img src="https://media.giphy.com/media/nIIN07v2SlzjfSakIW/giphy.gif" width="260" alt="Link playing the ocarina"></p>
 <p align="center">
   <b>Data Analyst @ PicPay</b> · Product Analytics · Open Finance · ML<br>
   Turning big, messy fintech data into decisions — with SQL, PySpark and a bit of machine learning.
